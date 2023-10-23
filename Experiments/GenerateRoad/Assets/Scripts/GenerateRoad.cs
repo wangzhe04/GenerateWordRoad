@@ -45,6 +45,10 @@ public class WordToCubes : MonoBehaviour
             { true, true, true }
         });
 
+
+
+        
+
         // Add other letters as needed...
 
         GenerateWord("ABC", startPos);
